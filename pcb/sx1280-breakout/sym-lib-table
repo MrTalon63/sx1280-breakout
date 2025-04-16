@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sx1280")(type "KiCad")(uri "${KIPRJMOD}/sx1280.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-TXO-20CSMV")(type "KiCad")(uri "${KIPRJMOD}/ECS-TXO-20CSMV.kicad_sym")(options "")(descr ""))
+  (lib (name "rfx2401c")(type "KiCad")(uri "${KIPRJMOD}/rfx2401c.kicad_sym")(options "")(descr ""))
+)
